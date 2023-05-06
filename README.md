@@ -1,5 +1,6 @@
 # McMohans-Burgers---Restaurant-Orders-Simulation
 
+
 <b>Objectives:</b> <br />
 • Implement a simulation environment for McMahon's Burgers.<br />
 • Track statistics such as average waiting time and queue length to identify areas for improvement.<br />
