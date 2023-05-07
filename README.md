@@ -9,7 +9,6 @@
 • Use proper data structures, including heaps and queues, to optimize the simulation's time and memory complexity.<br />
 • Provide functions to retrieve customer and griddle states, calculate customer wait times, and calculate average wait time per customer.
 
-
 <b>Constraints:</b><br />
 • The restaurant has K billing counters numbered from 1 to K.<br />
 • The griddle can cook at most M burger patties simultaneously.<br />
