@@ -19,7 +19,6 @@
 • The simulation is event-driven, where events include customer arrivals, order completions, burger cooking, and burger deliveries.<br />
 • The simulation maintains customer states (waiting in queue, waiting for food, or left the building) and a global clock to move events forward.<br />
 
-
 <b>Major Complexity Factors:</b><br />
 • Efficiently handling multiple billing counters and selecting the shortest queue.<br />
 • Simultaneous events and their prioritization based on the specific order.<br />
