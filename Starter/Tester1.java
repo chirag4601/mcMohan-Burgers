@@ -12,7 +12,7 @@ public class Tester1 {
             System.out.println(e);
         }
 
-        // t = 0
+        // time = 0
         try{
             // Customer 1 arrives
             mm.arriveCustomer(1, 0, 3);
