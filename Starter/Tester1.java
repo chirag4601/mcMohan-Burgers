@@ -25,7 +25,7 @@ public class Tester1 {
             System.out.println(e);
         }
 
-        // t = 1
+        // time = 1
         try{
             // Query customer state
             mm.customerState(2, 1);
