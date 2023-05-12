@@ -37,7 +37,7 @@ public class Tester1 {
             System.out.println(e);
         }
 
-        // t = 2
+        // time = 2
         try{
             // Query griddle state
             mm.griddleState(2);
