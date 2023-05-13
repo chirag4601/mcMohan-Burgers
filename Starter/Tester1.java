@@ -46,7 +46,7 @@ public class Tester1 {
             System.out.println(e);
         }
 
-        // t = 3
+        // time = 3
         try{
             // Query customer state
             mm.customerState(1, 3);
