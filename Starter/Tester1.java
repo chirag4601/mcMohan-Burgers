@@ -64,7 +64,7 @@ public class Tester1 {
             System.out.println(e);
         }
 
-        // t = 10
+        // time = 10
         try{
             // Query griddle wait time
             mm.griddleWait(10);
