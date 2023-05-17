@@ -73,7 +73,7 @@ public class Tester1 {
             System.out.println(e);
         }
 
-        // t = 14
+        // time = 14
         try{
             // Query griddle state
             mm.griddleState(14);
