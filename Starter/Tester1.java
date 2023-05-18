@@ -92,7 +92,7 @@ public class Tester1 {
             System.out.println(e);
         }
 
-        // t = 23
+        // time = 23
         try{
             // Advance time
             mm.advanceTime(23);
