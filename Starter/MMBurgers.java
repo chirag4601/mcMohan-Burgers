@@ -24,8 +24,8 @@ public class MMBurgers implements MMBurgersInterface {
     }
 
     public void setK(int k) throws IllegalNumberException{
-        if(k<=0)
-            throw new IllegalNumberException("Counters should be positive");
+        if(k<=0){
+            throw new IllegalNumberException("Counters should be positive");}
         numCounters = k;
         counter = new Queue[k+1];
         for(int i = 1 ; i<k+1 ; i++)
