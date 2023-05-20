@@ -29,7 +29,7 @@ public class MMBurgers implements MMBurgersInterface {
         numCounters = k;
         counter = new Queue[k+1];
         for(int i = 1 ; i<k+1 ; i++)
-            counter[i] = new LinkedList<>();
+            {counter[i] = new LinkedList<>();}
     }
 
     public void setM(int m) throws IllegalNumberException{
